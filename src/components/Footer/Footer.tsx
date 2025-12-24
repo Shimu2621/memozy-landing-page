@@ -1,18 +1,24 @@
-import { FooterClient } from "./FooterClient"
+import { FooterClient } from "./FooterClient";
 
 export function Footer() {
   const quickLinks = [
     { name: "How to Use", href: "https://memozy.ai/how-to-use-memozy.html" },
     {
-      name: "Second Brain",
+      name: "First Brain",
       href: "https://www.memozy.ai/memozy_second_brain.html",
     },
     { name: "Support", href: "https://www.memozy.ai/app-feedback.html" },
-    { name: "Privacy Policy", href: "https://www.memozy.ai/privacy-policy.html" },
-    { name: "Delete Account", href: "https://www.memozy.ai/delete-account.html" },
+    {
+      name: "Privacy Policy",
+      href: "https://www.memozy.ai/privacy-policy.html",
+    },
+    {
+      name: "Delete Account",
+      href: "https://www.memozy.ai/delete-account.html",
+    },
     { name: "Company", href: "https://agenteex.com/" },
-    {name: "Versusly AI", href: "https://versusly.ai/"}
-  ]
+    { name: "Versusly AI", href: "https://versusly.ai/" },
+  ];
 
   const features = [
     "Natural AI Conversations",
@@ -21,7 +27,7 @@ export function Footer() {
     "Voice Messages",
     "Calendar Sync",
     "Weekly Journal Summaries",
-  ]
+  ];
 
-  return <FooterClient quickLinks={quickLinks} features={features} />
+  return <FooterClient quickLinks={quickLinks} features={features} />;
 }
