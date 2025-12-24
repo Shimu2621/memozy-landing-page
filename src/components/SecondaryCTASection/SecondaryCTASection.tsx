@@ -1,3 +1,4 @@
+"use client";
 import { SecondaryCTASectionClient } from "./SecondaryCTASectionClient";
 
 export function SecondaryCTASection() {

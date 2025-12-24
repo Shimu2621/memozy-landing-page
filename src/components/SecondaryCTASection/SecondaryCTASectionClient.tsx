@@ -1,6 +1,6 @@
-'use client';
+"use client";
 
-import { motion } from 'framer-motion';
+import { motion } from "framer-motion";
 import {
   Globe,
   Brain,
@@ -10,38 +10,42 @@ import {
   Heart,
   Mic,
   BookOpen,
-} from 'lucide-react';
-import { Button } from '@/components/ui/button';
-import Image from 'next/image';
-import Link from 'next/link';
-import playStore from '../../../public/play-store.png';
-import appStore from '../../../public/app-store.png';
-import { BorderBeam } from '../ui/border-beam';
-import { useMediaQuery } from '@/hooks/use-media-query';
+} from "lucide-react";
+import { Button } from "@/components/ui/button";
+import Image from "next/image";
+import Link from "next/link";
+import playStore from "../../../public/play-store.png";
+import appStore from "../../../public/app-store.png";
+import { BorderBeam } from "../ui/border-beam";
+import { useMediaQuery } from "@/hooks/use-media-query";
 
-export function SecondaryCTASectionClient({ children }: { children: React.ReactNode }) {
-  const isMobile = useMediaQuery('(max-width: 768px)');
+export function SecondaryCTASectionClient({
+  children,
+}: {
+  children: React.ReactNode;
+}) {
+  const isMobile = useMediaQuery("(max-width: 768px)");
 
   const floatingIcons = [
-    { Icon: Brain, color: 'text-violet-500', x: '10%', y: '20%', delay: 0 },
+    { Icon: Brain, color: "text-violet-500", x: "10%", y: "20%", delay: 0 },
     {
       Icon: MessageSquare,
-      color: 'text-blue-500',
-      x: '85%',
-      y: '15%',
+      color: "text-blue-500",
+      x: "85%",
+      y: "15%",
       delay: 0.5,
     },
-    { Icon: Calendar, color: 'text-purple-500', x: '15%', y: '70%', delay: 1 },
+    { Icon: Calendar, color: "text-purple-500", x: "15%", y: "70%", delay: 1 },
     {
       Icon: Sparkles,
-      color: 'text-violet-400',
-      x: '80%',
-      y: '75%',
+      color: "text-violet-400",
+      x: "80%",
+      y: "75%",
       delay: 1.5,
     },
-    { Icon: Heart, color: 'text-pink-500', x: '5%', y: '45%', delay: 2 },
-    { Icon: Mic, color: 'text-blue-400', x: '90%', y: '45%', delay: 2.5 },
-    { Icon: BookOpen, color: 'text-purple-400', x: '50%', y: '10%', delay: 3 },
+    { Icon: Heart, color: "text-pink-500", x: "5%", y: "45%", delay: 2 },
+    { Icon: Mic, color: "text-blue-400", x: "90%", y: "45%", delay: 2.5 },
+    { Icon: BookOpen, color: "text-purple-400", x: "50%", y: "10%", delay: 3 },
   ];
 
   return (
@@ -63,7 +67,7 @@ export function SecondaryCTASectionClient({ children }: { children: React.ReactN
           transition={{
             duration: 8,
             repeat: Number.POSITIVE_INFINITY,
-            ease: 'easeInOut',
+            ease: "easeInOut",
             delay: item.delay,
           }}
         >
@@ -88,7 +92,7 @@ export function SecondaryCTASectionClient({ children }: { children: React.ReactN
                 pathLength: {
                   duration: 3,
                   repeat: Number.POSITIVE_INFINITY,
-                  ease: 'linear',
+                  ease: "linear",
                 },
                 opacity: { duration: 1 },
               }}
@@ -104,7 +108,7 @@ export function SecondaryCTASectionClient({ children }: { children: React.ReactN
                 pathLength: {
                   duration: 3,
                   repeat: Number.POSITIVE_INFINITY,
-                  ease: 'linear',
+                  ease: "linear",
                   delay: 0.5,
                 },
                 opacity: { duration: 1 },
@@ -121,7 +125,7 @@ export function SecondaryCTASectionClient({ children }: { children: React.ReactN
                 pathLength: {
                   duration: 3,
                   repeat: Number.POSITIVE_INFINITY,
-                  ease: 'linear',
+                  ease: "linear",
                   delay: 1,
                 },
                 opacity: { duration: 1 },
@@ -154,7 +158,7 @@ export function SecondaryCTASectionClient({ children }: { children: React.ReactN
         transition={{
           duration: 8,
           repeat: Number.POSITIVE_INFINITY,
-          ease: 'easeInOut',
+          ease: "easeInOut",
         }}
         className="absolute top-1/12 lg:top-1/4 left-1/4 w-64 lg:w-96 h-64 lg:h-96 bg-violet-500/30 rounded-full blur-lg "
       />
@@ -166,7 +170,7 @@ export function SecondaryCTASectionClient({ children }: { children: React.ReactN
         transition={{
           duration: 8,
           repeat: Number.POSITIVE_INFINITY,
-          ease: 'easeInOut',
+          ease: "easeInOut",
           delay: 1,
         }}
         className="absolute bottom-1/12 lg:bottom-1/4 right-1/4 w-64 lg:w-96 h-64 lg:h-96 bg-blue-500/30 rounded-full blur-xl "

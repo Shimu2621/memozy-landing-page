@@ -4,7 +4,7 @@ export function Footer() {
   const quickLinks = [
     { name: "How to Use", href: "https://memozy.ai/how-to-use-memozy.html" },
     {
-      name: "First Brain",
+      name: "Second Brain",
       href: "https://www.memozy.ai/memozy_second_brain.html",
     },
     { name: "Support", href: "https://www.memozy.ai/app-feedback.html" },
