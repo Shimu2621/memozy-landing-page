@@ -20,7 +20,7 @@ const benefits = [
     icon: "ImageIcon",
     title: "Image Input & Interpretation",
     description:
-      "Upload pictures for outfit feedback, math help, text extraction, or creative AI insights.",
+      "Upload pictures for outfit feedback, math helps, text extraction, or creative AI insights.",
     color: "from-emerald-500 to-teal-500",
   },
   {
@@ -106,7 +106,7 @@ export function BenefitsSection() {
           </h2>
 
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto font-outfit">
-            Discover the features that make Memozy your perfect AI companion
+            Discover the features that makes Memozy your perfect AI companion
           </p>
         </div>
 

@@ -21,7 +21,7 @@ const features = [
       {
         icon: "BookOpen",
         title: "Weekly Journal Summaries",
-        description: "Reflective AI-generated recaps every Sunday",
+        description: "Reflective AI-generated recaps every Sunday's",
       },
     ],
   },
