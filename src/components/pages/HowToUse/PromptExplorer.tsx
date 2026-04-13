@@ -40,7 +40,10 @@ export default function PromptExplorer() {
   };
 
   return (
-    <div id="prompt-explorer" className="relative w-full bg-gradient-to-tr from-violet-300/50 via-blue-300/20 to-pink-300/20 dark:from-violet-700/30 dark:via-blue-500/40 dark:to-pink-400/40 overflow-hidden py-12 md:py-20">
+    <div
+      id="prompt-explorer"
+      className="relative w-full bg-gradient-to-tr from-violet-300/50 via-blue-300/20 to-pink-300/20 dark:from-violet-700/30 dark:via-blue-500/40 dark:to-pink-400/40 overflow-hidden py-12 md:py-20"
+    >
       <div className="relative z-10 container mx-auto px-4 sm:px-6 lg:px-8">
         <motion.div
           ref={containerRef}
@@ -107,7 +110,11 @@ export default function PromptExplorer() {
               <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold bg-gradient-to-r from-purple-800 to-pink-800 dark:from-purple-500 dark:to-pink-500 bg-clip-text text-transparent font-outfit">
                 Prompt Explorer
               </h2>
-              <p className="text-lg md:text-xl text-slate-800 dark:text-pink-100 font-outfit">Unlock your creativity and explore new ideas with Memozy&apos;s Prompt Explorer. Get inspired with a universe of prompts for writing, self-reflection, and more.</p>
+              <p className="text-lg md:text-xl text-slate-800 dark:text-pink-100 font-outfit">
+                Unlock your creativity and explore new ideas with Memozy&apos;s
+                Prompt Explorer. Get inspired with a universe of prompts for
+                writings, self-reflections, and more.
+              </p>
             </motion.div>
 
             {/* Example */}
@@ -121,7 +128,8 @@ export default function PromptExplorer() {
                 </span>
                 <br />
                 <span className="text-purple-600 dark:text-purple-200">
-                  🗣️ &quot;Give me a tarot reading for my current situation.&quot;
+                  🗣️ &quot;Give me a tarot reading for my current
+                  situation.&quot;
                 </span>
               </p>
             </motion.div>
