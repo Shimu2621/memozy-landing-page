@@ -46,7 +46,7 @@ function TypingSubheading() {
       "🔊 Voice Messages & Custom AI Voice – Hear Memozy reply in realistic voices that match your mood and style.",
       "🧠 Smart Organization – Let Memozy auto-tag and neatly organize your notes, reminders, and thoughts.",
     ],
-    []
+    [],
   );
 
   const [displayedText, setDisplayedText] = useState("");
@@ -214,7 +214,7 @@ export function HeroSection() {
                 <p className="text-xl md:text-2xl leading-relaxed text-pretty block font-outfit min-h-[8rem] sm:min-h-[6.5rem]">
                   🗣️ Natural AI Conversations – Talk, journal, take notes, and
                   organize tasks like you&apos;re chatting with a thoughtful
-                  friend.
+                  friends.
                 </p>
               </div>
               <div className="flex flex-wrap gap-4 items-center justify-center lg:justify-start">
@@ -357,8 +357,8 @@ export function HeroSection() {
                       height={24}
                     />
                     Play Store
-                    <BorderBeam borderWidth={2} isMobile={isMobile} />     
-                  </Button>   
+                    <BorderBeam borderWidth={2} isMobile={isMobile} />
+                  </Button>
                 </Link>
 
                 <Link
