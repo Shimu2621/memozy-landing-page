@@ -78,7 +78,7 @@ export function NoteTaking() {
               <p className=" text-base md:text-lg leading-relaxed">
                 <span className=" font-semibold">Example:</span> 🗣️
                 &quot;Memozy, save a note: Brainstorm ideas for my next
-                project.&quot;
+                projects.&quot;
               </p>
             </motion.div>
 
