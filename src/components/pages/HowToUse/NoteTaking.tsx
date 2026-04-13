@@ -67,7 +67,7 @@ export function NoteTaking() {
               <p className="text-lg md:text-xl">
                 Memozy makes it easy to capture your thoughts and ideas on the
                 go. Save notes, memos, and other important informations anytime,
-                anywhere, using voice or text.
+                anywhere, using voices or texts.
               </p>
             </motion.div>
 
