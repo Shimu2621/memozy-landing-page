@@ -113,7 +113,7 @@ export function NoteTaking() {
                     icon: Share2, // Replace with a more appropriate icon if available
                     title: "Effortless Organization",
                     description:
-                      "Organize your notes with tags and categories for easy retrieval.",
+                      "Organize your notes with tags and categories for easy retrievals.",
                   },
                 ].map((item, index) => (
                   <motion.div
