@@ -10,7 +10,7 @@ export function FaqSection() {
     {
       question: "How does Memozy help with productivity?",
       answer:
-        "Memozy acts as your second brain and AI productivity tool. It helps you track daily tasks, schedule events, and never miss important deadlines. Create to-do lists, organize priorities, set smart reminders, sync with your calendar, and capture quick thoughts instantly. From shopping lists to project deadlines, everything is stored in one place and easy to access.",
+        "Memozy works as your personal second brain and AI-powered productivity assistant. It helps you manage daily tasks, schedule events, and stay on top of important deadlines. You can create to-do lists, prioritize your work, set smart reminders, sync with your calendar, and quickly capture ideas on the go. From simple shopping lists to complex project timelines, everything is organized in one place for easy access and better productivity.",
     },
     {
       question: "Can Memozy help with writing and journaling?",
