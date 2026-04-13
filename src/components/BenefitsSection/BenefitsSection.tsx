@@ -106,7 +106,8 @@ export function BenefitsSection() {
           </h2>
 
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto font-outfit">
-            Discover the features that makes Memozy your perfect AI companion
+            Discover the powerful features that makes Memozy your perfect AI
+            companion
           </p>
         </div>
 
