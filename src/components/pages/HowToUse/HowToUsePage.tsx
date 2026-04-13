@@ -84,7 +84,7 @@ export const HowToUsePage = () => {
       {
         "@type": "HowToStep",
         name: "Stay on Top of Your Schedule",
-        text: "View and manage appointments with ease. Never miss an important meeting or event again. For example, ask 'What appointments do I have this week?'",
+        text: "View and manage appointments with ease. Never miss an important meeting or events again. For example, ask 'What appointments do I have this week?'",
         url: "https://www.memozy.ai/how-to-use-memozy.html#stay-on-schedule",
       },
       {
