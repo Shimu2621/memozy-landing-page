@@ -25,7 +25,7 @@ export function FaqSection() {
     {
       question: "What features does Memozy offer?",
       answer:
-        "Memozy offers smart reminders, notes & to-dos, task organization, image to notes conversion, calendar sync, home screen widgets, voice messages, custom AI voices, weekly journal summaries, and personalized chat experiences. It combines the practicality of an AI assistant with the personality of an AI companion, perfect for students, professionals, and anyone seeking both productivity and connection.",
+        "Memozy brings together a powerful set of features to boost both productivity and personal expression. It includes smart reminders, notes and to-do lists, advanced task organization, image-to-notes conversion, seamless calendar sync, and convenient home screen widgets. You can also send voice messages, choose custom AI voices, and receive insightful weekly journal summaries. With personalized chat experiences, Memozy blends the efficiency of an AI assistant with the warmth of an AI companion—making it ideal for students, professionals, and anyone looking to stay organized while feeling connected.",
     },
   ];
 
