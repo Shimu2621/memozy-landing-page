@@ -20,7 +20,7 @@ export function FaqSection() {
     {
       question: "What are the different AI vibes and modes?",
       answer:
-        "Memozy adapts to your mood with different chat styles: Friendly (warm and supportive), Professional (structured and clear, like a work assistant), Romantic (roleplay as your AI companion), and RoastMe (playful teasing and witty comebacks). Switch modes anytime to enjoy conversations that feel real and match your current vibe.",
+        "Memozy adapts to your mood with a variety of AI-powered chat styles. Choose from Friendly (warm, supportive, and conversational), Professional (clear, structured, and work-focused), Romantic (engaging companion-style interactions), and RoastMe (playful teasing with witty comebacks). You can switch between modes anytime, making every conversation feel personalized and perfectly aligned with your current vibe.",
     },
     {
       question: "What features does Memozy offer?",
