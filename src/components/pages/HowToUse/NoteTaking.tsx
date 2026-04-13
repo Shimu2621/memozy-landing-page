@@ -37,7 +37,10 @@ export function NoteTaking() {
   };
 
   return (
-    <div id="note-taking" className="relative w-full overflow-hidden font-outfit">
+    <div
+      id="note-taking"
+      className="relative w-full overflow-hidden font-outfit"
+    >
       {/* Gradient Background */}
       <div className="absolute inset-0 bg-gradient-to-br from-blue-300/70 via-violet-300/20 to-purple-300/40 dark:from-blue-600/30 dark:via-violet-600/30 dark:to-purple-600/30" />
       {/* Content */}
@@ -61,7 +64,11 @@ export function NoteTaking() {
                 Capture Ideas & Notes Instantly
               </h2>
 
-              <p className="text-lg md:text-xl">Memozy makes it easy to capture your thoughts and ideas on the go. Save notes, memos, and other important information anytime, anywhere, using voice or text.</p>
+              <p className="text-lg md:text-xl">
+                Memozy makes it easy to capture your thoughts and ideas on the
+                go. Save notes, memos, and other important informations anytime,
+                anywhere, using voice or text.
+              </p>
             </motion.div>
 
             <motion.div
@@ -69,8 +76,9 @@ export function NoteTaking() {
               className="bg-violet-500/10 dark:bg-white/10 backdrop-blur-md rounded-2xl p-6 md:p-8 border border-blue-400 dark:border-white/20"
             >
               <p className=" text-base md:text-lg leading-relaxed">
-                <span className=" font-semibold">Example:</span> 🗣️ &quot;Memozy,
-                save a note: Brainstorm ideas for my next project.&quot;
+                <span className=" font-semibold">Example:</span> 🗣️
+                &quot;Memozy, save a note: Brainstorm ideas for my next
+                project.&quot;
               </p>
             </motion.div>
 
@@ -86,22 +94,26 @@ export function NoteTaking() {
                   {
                     icon: Mic,
                     title: "Voice Notes",
-                    description: "Quickly capture your thoughts with voice-to-text transcription.",
+                    description:
+                      "Quickly capture your thoughts with voice-to-text transcription.",
                   },
                   {
                     icon: Search,
                     title: "Smart Search",
-                    description: "Find your notes instantly with powerful keyword search.",
+                    description:
+                      "Find your notes instantly with powerful keyword search.",
                   },
                   {
                     icon: Share2,
                     title: "Easy Sharing",
-                    description: "Share your notes with friends and colleagues with a single tap.",
+                    description:
+                      "Share your notes with friends and colleagues with a single tap.",
                   },
                   {
                     icon: Share2, // Replace with a more appropriate icon if available
                     title: "Effortless Organization",
-                    description: "Organize your notes with tags and categories for easy retrieval.",
+                    description:
+                      "Organize your notes with tags and categories for easy retrieval.",
                   },
                 ].map((item, index) => (
                   <motion.div
@@ -113,7 +125,9 @@ export function NoteTaking() {
                       <item.icon className="w-6 h-6 " />
                     </div>
                     <div>
-                      <p className="font-bold text-base md:text-lg">{item.title}</p>
+                      <p className="font-bold text-base md:text-lg">
+                        {item.title}
+                      </p>
                       <p className="text-sm md:text-base">{item.description}</p>
                     </div>
                   </motion.div>
