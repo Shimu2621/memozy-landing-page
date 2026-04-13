@@ -156,7 +156,7 @@ export const HowToUsePage = () => {
             <p className="text-sm sm:text-base md:text-lg lg:text-xl xl:text-2xl text-center text-white/95 drop-shadow-md text-balance font-light leading-relaxed">
               Learn how to make the most of Memozy with simple, step-by-step
               guides. This page shows you how to create reminders, add and
-              organize journals, set up your daily notes, and use Memozy&apos;s
+              organizes journals, set up your daily notes, and use Memozy&apos;s
               features to boost your productivity and mindfulness.
             </p>
           </motion.div>
