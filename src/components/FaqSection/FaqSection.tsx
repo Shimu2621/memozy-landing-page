@@ -15,7 +15,7 @@ export function FaqSection() {
     {
       question: "Can Memozy help with writing and journaling?",
       answer:
-        "Yes! Memozy doubles as your AI writing partner and journaling app. It can help you brainstorm ideas, outline plots, and even roleplay characters to bring your stories alive. For personal growth, log your thoughts, reflect on your mood, and receive weekly summaries highlighting your wins, struggles, and insights. Journaling with AI gives you a clearer view of your progress and habits over time.",
+        "Absolutely! Memozy acts as your AI-powered writing assistant and personal journaling companion. It helps you brainstorm ideas, structure your thoughts, outline stories, and even roleplay characters to bring your writing to life. For personal growth, you can journal daily, track your mood, and reflect on your experiences. Memozy also provides insightful weekly summaries, highlighting your achievements, challenges, and patterns—helping you better understand your habits and progress over time.",
     },
     {
       question: "What are the different AI vibes and modes?",
