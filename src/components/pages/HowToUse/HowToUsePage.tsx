@@ -16,7 +16,7 @@ import dynamic from "next/dynamic";
 import Script from "next/script";
 
 const NoteTaking = dynamic(() =>
-  import("./NoteTaking").then((mod) => mod.NoteTaking)
+  import("./NoteTaking").then((mod) => mod.NoteTaking),
 );
 const SmartReminders = dynamic(() => import("./SmartReminders"));
 const StayOnSchedule = dynamic(() => import("./StayOnSchedule"));
@@ -67,7 +67,7 @@ export const HowToUsePage = () => {
     "@type": "HowTo",
     name: "How to use Memozy",
     description:
-      "Learn how to use Memozy to capture ideas, set reminders, manage your schedule, and much more.",
+      "Learn how to use Memozy to capture ideas, set reminders, manage your schedules, and much more.",
     step: [
       {
         "@type": "HowToStep",
