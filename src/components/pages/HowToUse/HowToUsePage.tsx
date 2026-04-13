@@ -96,7 +96,7 @@ export const HowToUsePage = () => {
       {
         "@type": "HowToStep",
         name: "Find Anything Instantly",
-        text: "Need to find a note or task? Just ask! For example, say 'Show me my notes about marketing.'",
+        text: "Need to find a notes or tasks? Just ask! For example, say 'Show me my notes about marketing.'",
         url: "https://www.memozy.ai/how-to-use-memozy.html#find-anything",
       },
       {
