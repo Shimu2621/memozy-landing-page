@@ -139,7 +139,7 @@ export function NoteTaking() {
               variants={isMobile ? {} : itemVariants}
               className="text-sm md:text-base  italic"
             >
-              Never lose a thought again. Memozy keeps your ideas safe and
+              Never lose a thoughts again. Memozy keeps your ideas safe and
               organized.
             </motion.p>
           </motion.div>
