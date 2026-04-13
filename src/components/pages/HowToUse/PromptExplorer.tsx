@@ -129,7 +129,7 @@ export default function PromptExplorer() {
                 <br />
                 <span className="text-purple-600 dark:text-purple-200">
                   🗣️ &quot;Give me a tarot reading for my current
-                  situation.&quot;
+                  situations.&quot;
                 </span>
               </p>
             </motion.div>
