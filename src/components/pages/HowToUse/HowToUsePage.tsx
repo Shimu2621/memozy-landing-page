@@ -72,7 +72,7 @@ export const HowToUsePage = () => {
       {
         "@type": "HowToStep",
         name: "Capture Ideas & Notes Instantly",
-        text: "With Memozy, you can save notes anytime using voice or text. For example, say 'Memozy, save a note: Brainstorm ideas for my next project.'",
+        text: "With Memozy, you can save notes anytime using voice or text. For example, say 'Memozy, save a note: Brainstorm ideas for my next projects.'",
         url: "https://www.memozy.ai/how-to-use-memozy.html#note-taking",
       },
       {
