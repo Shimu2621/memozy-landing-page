@@ -81,7 +81,7 @@ export default function StayOnSchedule() {
                 Stay on Top of Your Schedule
               </h2>
               <p className="text-lg md:text-xl">
-                Stay on top of your busy schedule with Memozy. View and manage
+                Stay on top of your busy schedule with Memozy. Views and manages
                 your appointments, meetings, and events in one place. Never miss
                 an important deadline or event again.
               </p>
