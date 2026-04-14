@@ -173,7 +173,7 @@ export default function PromptExplorer() {
                     icon: PenSquare,
                     title: "Flirting Writing Assistant",
                     description:
-                      "Craft the perfect message with a little help from your AI assistant.",
+                      "Craft the perfect messages with a little help from your AI assistant.",
                   },
                 ].map((feature, index) => (
                   <motion.div
