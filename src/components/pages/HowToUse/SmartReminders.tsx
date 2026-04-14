@@ -113,7 +113,7 @@ export default function SmartReminders() {
                 Never forget important tasks or events again. Memozy&apos;s
                 smart reminders help you stay organized and on track. Set
                 reminders for appointments, deadlines, and other important
-                moments with ease.
+                moment with ease.
               </p>
             </motion.div>
 
