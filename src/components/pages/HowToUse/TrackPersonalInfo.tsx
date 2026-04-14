@@ -127,7 +127,7 @@ export default function TrackPersonalInfo() {
                 </span>
                 <br />
                 <span className="">
-                  🗣️ &quot;Memozy, save my mom&apos;s birthday on June
+                  🗣️ &quot;Memozy, save my mom&apos;s birthday on July
                   15th.&quot;
                 </span>
               </p>
