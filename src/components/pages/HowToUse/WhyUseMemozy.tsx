@@ -38,7 +38,7 @@ export const WhyUseMemozy = () => {
     {
       icon: "🔍",
       title: "Instant Retrieval",
-      description: "Find notes and reminders with a simple search",
+      description: "Find notes and reminders with a simple searchs",
     },
   ];
 
@@ -100,7 +100,9 @@ export const WhyUseMemozy = () => {
               className="bg-white/10 dark:bg-white/5 backdrop-blur-md rounded-xl p-2 md:p-4 border border-white/20 hover:bg-white/15 dark:hover:bg-white/10 transition-all duration-300"
             >
               <div className="text-3xl md:text-4xl mb-2">
-                <span role="img" aria-label={feature.title}>{feature.icon}</span>
+                <span role="img" aria-label={feature.title}>
+                  {feature.icon}
+                </span>
               </div>
               <h3 className="text-lg md:text-xl font-bold text-white mb-1">
                 {feature.title}
@@ -128,7 +130,12 @@ export const WhyUseMemozy = () => {
               size="lg"
               className="relative overflow-hidden text-sm md:text-sm lg:text-lg px-2 md:px-4 lg:px-5 lg:py-6 bg-gradient-to-r from-blue-500 via-indigo-500 to-violet-500 text-white font-semibold flex items-center gap-2 hover:opacity-90 transition-all duration-300 cursor-pointer uppercase font-outfit"
             >
-              <Image src={playStore} alt="Get it on Google Play" width={24} height={24} />
+              <Image
+                src={playStore}
+                alt="Get it on Google Play"
+                width={24}
+                height={24}
+              />
               Play Store
               <BorderBeam borderWidth={2} isMobile={isMobile} />
             </Button>
@@ -143,7 +150,12 @@ export const WhyUseMemozy = () => {
               size="lg"
               className="relative overflow-hidden text-sm md:text-sm lg:text-lg px-2 md:px-4 lg:px-5 lg:py-6 bg-gradient-to-r from-violet-500 via-indigo-500 to-blue-500 text-white font-semibold flex items-center gap-2 hover:opacity-90 transition-all duration-300 cursor-pointer uppercase font-outfit"
             >
-              <Image src={appStore} alt="Download on the App Store" width={24} height={24} />
+              <Image
+                src={appStore}
+                alt="Download on the App Store"
+                width={24}
+                height={24}
+              />
               App Store
               <BorderBeam borderWidth={2} isMobile={isMobile} />
             </Button>
