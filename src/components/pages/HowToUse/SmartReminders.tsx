@@ -189,7 +189,7 @@ export default function SmartReminders() {
             {/* CTA */}
             <motion.div variants={isMobile ? {} : itemVariants}>
               <p className="text-slate-700 dark:text-blue-100 font-outfit text-sm md:text-base">
-                Never miss a deadline, meeting, or important task again with
+                Never miss a deadline, meeting, or important tasks again with
                 Memozy&apos;s intelligent reminder system.
               </p>
             </motion.div>
