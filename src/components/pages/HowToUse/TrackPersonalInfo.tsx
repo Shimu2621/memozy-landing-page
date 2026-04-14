@@ -166,7 +166,7 @@ export default function TrackPersonalInfo() {
                     icon: FileText,
                     title: "Important Documents",
                     description:
-                      "Securely save copies of important documents and information.",
+                      "Securely save copies of important documents and informations.",
                   },
                 ].map((feature, index) => (
                   <motion.div
