@@ -128,7 +128,7 @@ export default function SmartReminders() {
                 </span>
                 <br />
                 <span className="">
-                  🗣️ &quot;Remind me tomorrow at 10 AM to call Mr. Smith.&quot;
+                  🗣️ &quot;Remind me tomorrow at 09 AM to call Mr. Smith.&quot;
                 </span>
               </p>
             </motion.div>
