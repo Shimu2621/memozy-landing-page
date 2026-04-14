@@ -160,7 +160,7 @@ export default function TrackPersonalInfo() {
                     icon: Users,
                     title: "Contact Details",
                     description:
-                      "Store important contact information for friends and family.",
+                      "Store important contact information for friends and families.",
                   },
                   {
                     icon: FileText,
