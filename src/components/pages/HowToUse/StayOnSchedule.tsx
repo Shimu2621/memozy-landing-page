@@ -44,7 +44,7 @@ export default function StayOnSchedule() {
       icon: Bell,
       title: "Smart Notifications",
       description:
-        "Receive timely reminders before your appointments so you never miss anything.",
+        "Receive timely reminders before your appointments so you will never miss anything.",
     },
     {
       icon: Zap,
