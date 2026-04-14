@@ -191,7 +191,7 @@ export default function TrackPersonalInfo() {
             {/* CTA */}
             <motion.div variants={isMobile ? {} : itemVariants}>
               <p className="text-slate-700 dark:text-emerald-100 font-outfit text-sm md:text-base">
-                Keep all your important personal information in one place, safe
+                Keep all your important personal informations in one place, safe
                 and secure.
               </p>
             </motion.div>
