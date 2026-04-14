@@ -38,7 +38,7 @@ export default function StayOnSchedule() {
       icon: Clock,
       title: "Weekly Overview",
       description:
-        "Get a comprehensive view of your entire week to plan ahead and stay organized.",
+        "Get a comprehensive views of your entire week to plan ahead and stay organized.",
     },
     {
       icon: Bell,
@@ -55,7 +55,10 @@ export default function StayOnSchedule() {
   ];
 
   return (
-    <section id="stay-on-schedule" className="relative w-full overflow-hidden py-12 md:py-20 font-outfit">
+    <section
+      id="stay-on-schedule"
+      className="relative w-full overflow-hidden py-12 md:py-20 font-outfit"
+    >
       {/* Gradient Background */}
       <div className="absolute inset-0 bg-gradient-to-br from-violet-300/70 via-blue-300/30 to-purple-300/30 dark:from-violet-600/30 dark:via-blue-600/50 dark:to-purple-700/30 opacity-90" />
       {/* Content */}
@@ -77,7 +80,11 @@ export default function StayOnSchedule() {
               <h2 className="py-2 text-3xl md:text-4xl lg:text-5xl font-bold bg-gradient-to-r from-blue-800  to-violet-800 dark:from-blue-500 dark:to-violet-500 bg-clip-text text-transparent font-outfit">
                 Stay on Top of Your Schedule
               </h2>
-              <p className="text-lg md:text-xl">Stay on top of your busy schedule with Memozy. View and manage your appointments, meetings, and events in one place. Never miss an important deadline or event again.</p>
+              <p className="text-lg md:text-xl">
+                Stay on top of your busy schedule with Memozy. View and manage
+                your appointments, meetings, and events in one place. Never miss
+                an important deadline or event again.
+              </p>
             </motion.div>
 
             {/* Example */}
@@ -92,8 +99,8 @@ export default function StayOnSchedule() {
                 &quot;What appointments do I have this week?&quot;
               </p>
               <p className="text-sm md:text-base mt-3">
-                Memozy instantly shows your entire week&apos;s schedule, helping you
-                stay organized and prepared.
+                Memozy instantly shows your entire week&apos;s schedule, helping
+                you stay organized and prepared.
               </p>
             </motion.div>
 
