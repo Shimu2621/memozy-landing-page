@@ -112,7 +112,7 @@ export function WhySecondBrainMatters() {
             >
               <p className="text-foreground/80 italic text-sm sm:text-base leading-relaxed mb-4">
                 &qout;Systems like Memozy can help you processes, organizes, and
-                remember information more effectively — a key to sustainable
+                remember informations more effectively — a key to sustainable
                 creativity.&qout;
               </p>
               <p className="font-semibold text-foreground">
