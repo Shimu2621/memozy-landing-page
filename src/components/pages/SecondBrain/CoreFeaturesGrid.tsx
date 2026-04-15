@@ -20,7 +20,7 @@ export const features = [
     icon: Clock,
     title: "Smart Reminders & Appointments",
     description:
-      "Set intelligent reminders for tasks, meetings, or personal habits. Memozy automatically prioritizes and groups them by urgency and context.",
+      "Set intelligent reminders for tasks, meetings, or personal habits. Memozy automatically prioritizes and groups them by urgency and contexts.",
     gradient: "from-purple-500/20 to-pink-500/20",
     borderGradient: "from-purple-500 to-pink-500",
   },
@@ -111,7 +111,7 @@ export default function CoreFeaturesGrid() {
 
   const renderFeatureCard = (
     feature: Feature,
-    index: number
+    index: number,
   ): React.ReactElement => {
     const Icon = feature.icon;
     return (
