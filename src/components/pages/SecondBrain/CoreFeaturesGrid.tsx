@@ -28,7 +28,7 @@ export const features = [
     icon: Zap,
     title: "Auto Categorization & Context AI",
     description:
-      "Memozy analyzes each entry to detect context — like mood, topic, or intent — and organizes your thoughts automatically, so you stay in flow.",
+      "Memozy analyzes each entry to detect contexts — like mood, topic, or intent — and organizes your thoughts automatically, so you stay in flow.",
     gradient: "from-amber-500/20 to-orange-500/20",
     borderGradient: "from-amber-500 to-orange-500",
   },
