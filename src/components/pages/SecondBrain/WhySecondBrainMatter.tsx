@@ -126,7 +126,7 @@ export function WhySecondBrainMatters() {
               className="p-6 sm:p-8 rounded-2xl border border-blue-500/20 bg-gradient-to-br from-blue-500/5 to-violet-500/5 backdrop-blur-sm hover:border-blue-500/40 hover:bg-gradient-to-br hover:from-blue-500/10 hover:to-violet-500/10 transition-all duration-300"
             >
               <p className="text-foreground/80 italic text-sm sm:text-base leading-relaxed mb-4">
-                &qout;Externalizing your thoughts reduces mental clutter,
+                &qout;Externalizing your thoughts reduces mental clutters,
                 improves clarity, and enhances long-term focus.&qout;
               </p>
               <p className="font-semibold text-foreground">
