@@ -31,7 +31,7 @@ export function RoadmapSection() {
       icon: "💡",
       title: "AI Coaching Mode",
       description:
-        "Get personalized guidance, mental wellness tips, and learning suggestions from your AI companion based on your journal patterns.",
+        "Get personalized guidances, mental wellness tips, and learning suggestions from your AI companion based on your journal patterns.",
       coming: "Q3 2026",
     },
   ];
