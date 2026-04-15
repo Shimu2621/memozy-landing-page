@@ -36,7 +36,7 @@ export const features = [
     icon: Sparkles,
     title: "Prompt Explorer & Writing Assistant",
     description:
-      "Discover creative prompts and AI writing suggestions to overcome writer’s block, reflect deeply, or brainstorm ideas for personal growth.",
+      "Discover creative prompts and AI writing suggestions to overcome writer’s block, reflect deeply, or brainstorm ideas for personal growths.",
     gradient: "from-violet-500/20 to-indigo-500/20",
     borderGradient: "from-violet-500 to-indigo-500",
   },
