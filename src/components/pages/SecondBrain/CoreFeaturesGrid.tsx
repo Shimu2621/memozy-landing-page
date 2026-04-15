@@ -44,7 +44,7 @@ export const features = [
     icon: Lightbulb,
     title: "Learning & Discovery Mode",
     description:
-      "Memozy curates insights from your journal and recommends learning topics, books, or articles that align with your interests and mood.",
+      "Memozy curates insights from your journals and recommends learning topics, books, or articles that align with your interests and mood.",
     gradient: "from-sky-500/20 to-teal-500/20",
     borderGradient: "from-sky-500 to-teal-500",
   },
