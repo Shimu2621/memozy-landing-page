@@ -111,7 +111,7 @@ export function WhySecondBrainMatters() {
               className="p-6 sm:p-8 rounded-2xl border border-violet-500/20 bg-gradient-to-br from-violet-500/5 to-blue-500/5 backdrop-blur-sm hover:border-violet-500/40 hover:bg-gradient-to-br hover:from-violet-500/10 hover:to-blue-500/10 transition-all duration-300"
             >
               <p className="text-foreground/80 italic text-sm sm:text-base leading-relaxed mb-4">
-                &qout;Systems like Memozy can help you processes, organize, and
+                &qout;Systems like Memozy can help you processes, organizes, and
                 remember information more effectively — a key to sustainable
                 creativity.&qout;
               </p>
