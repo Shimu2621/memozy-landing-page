@@ -81,7 +81,7 @@ export function RoadmapSection() {
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
             We&apos;re continuously expanding Memozy to be more than a
-            productivity app — it&apos;s your evolving mental companion.
+            productivity app — it&apos;s your evolving mental companions.
             Here&apos;s a glimpse of what&apos;s coming next:
           </p>
         </motion.div>
