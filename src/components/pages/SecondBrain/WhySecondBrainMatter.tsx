@@ -175,7 +175,7 @@ export function WhySecondBrainMatters() {
                   4 Ways to Become a Better Learner
                 </p>
                 <p className="text-sm text-muted-foreground">
-                  Harvard Business Review
+                  Harvard Business Reviews
                 </p>
               </Link>
 
