@@ -141,7 +141,7 @@ export function RoadmapSection() {
         >
           <p className="text-muted-foreground mb-6">
             Your feedback directly shapes Memozy&apos;s roadmap — our mission is
-            to make your minds lighter, sharper, and calmer with every update.
+            to make your minds lighter, sharper, and calmer with every updates.
           </p>
           <Link
             href="https://www.memozy.ai/app-feedback.html"
