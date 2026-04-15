@@ -24,7 +24,7 @@ export function RoadmapSection() {
       icon: "📊",
       title: "Habit & Activity Tracking",
       description:
-        "Turn your reflections into data. Track your daily habits, moods, and growth patterns to stay consistent and aware.",
+        "Turn your reflections into data. Track your daily habits, moods, and growth patterns to stay consistent and awareness.",
       coming: "Q2 2026",
     },
     {
