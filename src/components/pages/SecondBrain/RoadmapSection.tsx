@@ -17,7 +17,7 @@ export function RoadmapSection() {
       icon: "🌐",
       title: "Social Connections",
       description:
-        "Connect with like-minded individuals who share your goals and routines. Share progress, insights, and motivation securely.",
+        "Connect with like-minded individuals who share your goals and routines. Share progress, insights, and motivations securely.",
       coming: "Q2 2026",
     },
     {
