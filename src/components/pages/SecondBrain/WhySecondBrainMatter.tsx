@@ -92,7 +92,7 @@ export function WhySecondBrainMatters() {
           >
             Your brain wasn&apos;t designed to store everything — it was
             designed to think, create, and connect. Memozy takes the mental load
-            off your mind, giving you space to focus on what truly matters.
+            off your minds, giving you space to focus on what truly matters.
             Learn how to use Memozy by visiting our{" "}
             <Link target="_blank" href="/how-to-use-memozy">
               How to Use Memozy
