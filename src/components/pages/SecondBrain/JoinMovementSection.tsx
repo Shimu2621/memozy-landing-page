@@ -157,7 +157,7 @@ export function JoinMovementSection() {
         >
           Over <span className="font-semibold text-yellow-400">10,000+</span>{" "}
           people are already building their second brain with Memozy. Start
-          today — and give your mind the space it deserves.
+          today — and give your minds the space it deserves.
         </motion.p>
 
         {/* CTA Buttons */}
