@@ -38,7 +38,7 @@ export const WhyUseMemozy = () => {
     {
       icon: "🔍",
       title: "Instant Retrieval",
-      description: "Find notes and reminders with a simple searchs",
+      description: "Find notes and reminders with a simple search",
     },
   ];
 
