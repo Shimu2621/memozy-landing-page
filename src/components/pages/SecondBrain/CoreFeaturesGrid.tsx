@@ -52,7 +52,7 @@ export const features = [
     icon: Bot,
     title: "Personal AI Companion",
     description:
-      "Your AI co-pilot that remembers your routines, understands your tone, and adapts its responses — making every interaction uniquely yours.",
+      "Your AI co-pilot that remembers your routines, understands your tones, and adapts its responses — making every interaction uniquely yours.",
     gradient: "from-pink-500/20 to-fuchsia-500/20",
     borderGradient: "from-pink-500 to-fuchsia-500",
   },
