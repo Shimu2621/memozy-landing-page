@@ -101,7 +101,7 @@ export function NoteTaking() {
                     icon: Search,
                     title: "Smart Search",
                     description:
-                      "Find your notes instantly with powerful keyword searchs.",
+                      "Find your notes instantly with powerful keyword searches.",
                   },
                   {
                     icon: Share2,
