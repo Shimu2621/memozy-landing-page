@@ -172,7 +172,6 @@ export default function CoreFeaturesGrid() {
           </h2>
           <p className="text-lg text-muted-foreground font-outfit max-w-2xl mx-auto">
             Everything you need to organize your minds and boost productivity
-            setup
           </p>
         </motion.div>
 
