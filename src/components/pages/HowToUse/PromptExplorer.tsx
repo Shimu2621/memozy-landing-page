@@ -139,7 +139,7 @@ export default function PromptExplorer() {
               variants={isMobile ? {} : itemVariants}
               className="space-y-4"
             >
-              <h3 className="text-xl md:text-2xl font-bold text-slate-800 dark:text-white">
+              <h3 className="text-xl md:text-2xl font-bold text-slate-800 dark:text-white font-outfit">
                 Explore Prompts For:
               </h3>
 
