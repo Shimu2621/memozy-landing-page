@@ -165,7 +165,7 @@ export default function SmartReminders() {
                     icon: Bell,
                     title: "Intelligent Notifications",
                     description:
-                      "Receive timely alerts that help you stay organized and productive.",
+                      "Receive timely alert that help you stay organized and productive.",
                   },
                 ].map((feature, index) => (
                   <motion.div
