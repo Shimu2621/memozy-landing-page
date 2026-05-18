@@ -107,7 +107,7 @@ export default function SmartReminders() {
               className="space-y-3"
             >
               <h2 className="py-2 text-3xl md:text-4xl lg:text-5xl font-bold bg-gradient-to-r from-violet-800 to-blue-800 dark:from-violet-500 dark:to-blue-500 bg-clip-text text-transparent font-outfit">
-                Set Smart Reminder & Never Forget Tasks
+                Set Smart Reminder & Never Forget Task
               </h2>
               <p className="text-lg md:text-xl text-slate-800 dark:text-blue-100 font-outfit">
                 Never forget important tasks or events again. Memozy&apos;s
