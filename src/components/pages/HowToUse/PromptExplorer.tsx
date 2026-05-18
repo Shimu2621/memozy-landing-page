@@ -167,7 +167,7 @@ export default function PromptExplorer() {
                     icon: Users,
                     title: "Relationship",
                     description:
-                      "Deepen your connections with prompts for meaningful conversations.",
+                      "Deepen your connections with prompt for meaningful conversation.",
                   },
                   {
                     icon: PenSquare,
