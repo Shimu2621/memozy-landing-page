@@ -137,7 +137,7 @@ export function NoteTaking() {
 
             <motion.p
               variants={isMobile ? {} : itemVariants}
-              className="text-sm md:text-base"
+              className="text-sm md:text-base  italic"
             >
               Never lose a thought again. Memozy keeps your ideas safe and
               organized.
