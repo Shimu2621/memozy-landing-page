@@ -95,7 +95,7 @@ export function NoteTaking() {
                     icon: Mic,
                     title: "Voice Notes",
                     description:
-                      "Quickly capture your thoughts with voice-to-text transcriptions.",
+                      "Quickly capture your thoughts with voice-to-text transcription.",
                   },
                   {
                     icon: Search,
@@ -137,7 +137,7 @@ export function NoteTaking() {
 
             <motion.p
               variants={isMobile ? {} : itemVariants}
-              className="text-sm md:text-base  italic"
+              className="text-sm md:text-base"
             >
               Never lose a thought again. Memozy keeps your ideas safe and
               organized.
