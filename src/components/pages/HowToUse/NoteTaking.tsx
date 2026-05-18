@@ -95,7 +95,7 @@ export function NoteTaking() {
                     icon: Mic,
                     title: "Voice Notes",
                     description:
-                      "Quickly capture your thoughts with voice-to-text transcription.",
+                      "Quickly capture your thoughts with voice-to-text transcriptions.",
                   },
                   {
                     icon: Search,
