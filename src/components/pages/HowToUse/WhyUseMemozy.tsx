@@ -33,7 +33,7 @@ export const WhyUseMemozy = () => {
     {
       icon: "📅",
       title: "Appointment Management",
-      description: "Keep track of schedules and deadlines effortlessly",
+      description: "Keep track of schedule and deadline effortlessly",
     },
     {
       icon: "🔍",
