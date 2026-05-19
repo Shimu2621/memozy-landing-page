@@ -67,7 +67,7 @@ export const HowToUsePage = () => {
     "@type": "HowTo",
     name: "How to use Memozy",
     description:
-      "Learn how to use Memozy to capture ideas, set reminders, manage your schedule, and much more.",
+      "Learn how to use Memozy to capture idea, set reminder, manage your schedule, and much more.",
     step: [
       {
         "@type": "HowToStep",
