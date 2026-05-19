@@ -23,7 +23,7 @@ export const WhyUseMemozy = () => {
     {
       icon: "📌",
       title: "Quickly Capture Notes",
-      description: "Save ideas, meeting notes, and daily reflections instantly",
+      description: "Save idea, meeting note, and daily reflection instantly",
     },
     {
       icon: "⏰",
