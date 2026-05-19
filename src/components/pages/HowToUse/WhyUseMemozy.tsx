@@ -28,7 +28,7 @@ export const WhyUseMemozy = () => {
     {
       icon: "⏰",
       title: "Smart Reminders",
-      description: "Set up tasks and get notified at the right time",
+      description: "Set up task and get notified at the right time",
     },
     {
       icon: "📅",
