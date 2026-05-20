@@ -149,7 +149,7 @@ export default function PromptExplorer() {
                     icon: ImageIcon,
                     title: "Image Insights",
                     description:
-                      "Get creative insights and stories from your images.",
+                      "Get creative insights and stories from your image.",
                   },
                   {
                     icon: Heart,
