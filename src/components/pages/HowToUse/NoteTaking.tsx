@@ -121,7 +121,7 @@ export function NoteTaking() {
                     variants={isMobile ? {} : itemVariants}
                     className="flex items-start gap-4 cursor-pointer bg-violet-500/10 dark:bg-white/5 backdrop-blur-sm rounded-xl p-4 border border-blue-500 dark:border-white/10 hover:bg-blue-500/10 dark:hover:bg-white/10 transition-colors"
                   >
-                    <div className="flex-shrink-0 mt-1 text-blue-500">
+                    <div className="flex-shrink-0 text-blue-500">
                       <item.icon className="w-6 h-6 " />
                     </div>
                     <div>
