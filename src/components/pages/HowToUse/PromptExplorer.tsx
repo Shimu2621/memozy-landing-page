@@ -155,7 +155,7 @@ export default function PromptExplorer() {
                     icon: Heart,
                     title: "Situationship",
                     description:
-                      "Navigate complex relationship dynamic with thoughtful prompts.",
+                      "Navigate complex relationships dynamic with thoughtful prompts.",
                   },
                   {
                     icon: Moon,
