@@ -32,7 +32,7 @@ export default function StayOnSchedule() {
       icon: Calendar,
       title: "Easy Appointment Viewing",
       description:
-        "See all your appointments at a glance with a clean, organized calendar interface.",
+        "See all your appointments at a glance with a clean, organized calendar interfaces.",
     },
     {
       icon: Clock,
