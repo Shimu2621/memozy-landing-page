@@ -38,7 +38,7 @@ export default function StayOnSchedule() {
       icon: Clock,
       title: "Weekly Overview",
       description:
-        "Get a comprehensive views of your entire week to plan ahead and stay organized.",
+        "Get a comprehensive views of your entire week to plans ahead and stay organized.",
     },
     {
       icon: Bell,
