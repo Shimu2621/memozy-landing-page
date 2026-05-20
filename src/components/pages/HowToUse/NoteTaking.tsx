@@ -107,7 +107,7 @@ export function NoteTaking() {
                     icon: Share2,
                     title: "Easy Sharing",
                     description:
-                      "Share your notes with friends and colleagues with a single tap.",
+                      "Share your notes with friends and colleagues with a single taps.",
                   },
                   {
                     icon: Share2, // Replace with a more appropriate icon if available
