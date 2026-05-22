@@ -153,7 +153,7 @@ export default function SmartReminders() {
                     icon: Calendar,
                     title: "Smart Scheduling",
                     description:
-                      "Schedule reminder for specific dates, times, and recurring event.",
+                      "Schedule reminder for specific dates, time, and recurring event.",
                   },
                   {
                     icon: Phone,
