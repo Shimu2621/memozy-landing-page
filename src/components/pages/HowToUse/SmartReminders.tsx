@@ -159,7 +159,7 @@ export default function SmartReminders() {
                     icon: Phone,
                     title: "Meeting & Call Alerts",
                     description:
-                      "Get notified before important calls, meetings, and appointments.",
+                      "Get notified before important calls, meetings, and appointment.",
                   },
                   {
                     icon: Bell,
