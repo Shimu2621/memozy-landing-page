@@ -147,7 +147,7 @@ export default function SmartReminders() {
                     icon: Clock,
                     title: "Instant Reminders",
                     description:
-                      "Set reminder with just a voice commands or texts input.",
+                      "Set reminder with just a voice commands or text input.",
                   },
                   {
                     icon: Calendar,
