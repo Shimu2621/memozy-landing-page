@@ -62,7 +62,7 @@ export default function StayOnSchedule() {
       {/* Gradient Background */}
       <div className="absolute inset-0 bg-gradient-to-br from-violet-300/70 via-blue-300/30 to-purple-300/30 dark:from-violet-600/30 dark:via-blue-600/50 dark:to-purple-700/30 opacity-90" />
       {/* Content */}
-      <div className="relative z-10 container mx-auto px-4 sm:px-6 lg:px-8">
+      <div className=" z-10 container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-12 items-center">
           {/* Left Side - Text Content */}
           <motion.div
