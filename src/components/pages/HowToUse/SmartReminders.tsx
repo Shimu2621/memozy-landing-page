@@ -112,8 +112,8 @@ export default function SmartReminders() {
               <p className="text-lg md:text-xl text-slate-800 dark:text-blue-100 font-outfit">
                 Never forget important tasks or events again. Memozy&apos;s
                 smart reminder help you stay organized and on track. Set
-                reminders for appointments, deadlines, and other important
-                moments with ease.
+                reminders for appointment, deadline, and other important moment
+                with ease.
               </p>
             </motion.div>
 
