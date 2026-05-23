@@ -200,7 +200,7 @@ export function WhySecondBrainMatters() {
                 className="p-4 rounded-lg border border-blue-500 hover:border-blue-500/40 hover:bg-blue-500/5 transition-all duration-300 group"
               >
                 <p className="font-semibold text-foreground group-hover:text-blue-500 transition-colors">
-                  7 Benefits of Word Games for Leaders
+                  7 Benefits of Word Games for Leader
                 </p>
                 <p className="text-sm text-muted-foreground">MSN Money</p>
               </Link>
