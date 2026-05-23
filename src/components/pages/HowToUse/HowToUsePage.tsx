@@ -157,7 +157,7 @@ export const HowToUsePage = () => {
               Learn how to make the most of Memozy with simple, step-by-step
               guides. This page show you how to create reminder, add and
               organizes journals, set up your daily notes, and use Memozy&apos;s
-              features to boost your productivity and mindfulness.
+              feature to boost your productivity and mindfulness.
             </p>
           </motion.div>
 
