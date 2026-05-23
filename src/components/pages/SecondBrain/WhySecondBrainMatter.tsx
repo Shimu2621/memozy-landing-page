@@ -141,7 +141,7 @@ export function WhySecondBrainMatters() {
             className="text-sm text-muted-foreground/70 flex items-center justify-center gap-2 mb-8"
           >
             <Network className="w-4 h-4 text-violet-500/60" />
-            Reflection strengthens focus and mental clarity.
+            Reflection strengthen focus and mental clarity.
           </motion.p>
 
           {/* References & Further Reading section */}
