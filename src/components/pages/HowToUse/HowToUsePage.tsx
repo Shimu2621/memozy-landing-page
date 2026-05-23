@@ -102,7 +102,7 @@ export const HowToUsePage = () => {
       {
         "@type": "HowToStep",
         name: "Prompt Explorer",
-        text: "Unlock your creativity with a universe of prompt. For example, say 'Give me a tarot reading for my current situations.'",
+        text: "Unlock your creativity with a universe of prompt. For example, say 'Give me a tarot reading for my current situation.'",
         url: "https://www.memozy.ai/how-to-use-memozy.html#prompt-explorer",
       },
     ],
