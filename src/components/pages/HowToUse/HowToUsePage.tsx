@@ -78,7 +78,7 @@ export const HowToUsePage = () => {
       {
         "@type": "HowToStep",
         name: "Set Smart Reminders & Never Forget Task",
-        text: "Memozy help you set reminder effortlessly, so you never miss important moment. For example, say 'Remind me tomorrow at 10 AM to call Mr. Smith.'",
+        text: "Memozy help you set reminder effortlessly, so you never miss important moments. For example, say 'Remind me tomorrow at 10 AM to call Mr. Smith.'",
         url: "https://www.memozy.ai/how-to-use-memozy.html#smart-reminders",
       },
       {
