@@ -125,7 +125,7 @@ export default function FindAnything() {
                     icon: FileSearch,
                     title: "Document Search",
                     description:
-                      "Quickly find information within your saved documents.",
+                      "Quickly locate important information within your saved documents.",
                   },
                 ].map((feature, index) => (
                   <motion.div
