@@ -107,7 +107,7 @@ export default function FindAnything() {
                     icon: Search,
                     title: "Natural Language Search",
                     description:
-                      "Search for notes and tasks using everyday language.",
+                      "Find notes and tasks instantly using natural, everyday language.",
                   },
                   {
                     icon: Filter,
