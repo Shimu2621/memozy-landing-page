@@ -119,7 +119,7 @@ export default function FindAnything() {
                     icon: Tags,
                     title: "Tag-Based Search",
                     description:
-                      "Organize and find your notes with custom tags.",
+                      "Organize your notes with custom tags and find them effortlessly anytime.",
                   },
                   {
                     icon: FileSearch,
