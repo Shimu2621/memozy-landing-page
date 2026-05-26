@@ -113,7 +113,7 @@ export default function FindAnything() {
                     icon: Filter,
                     title: "Advanced Filtering",
                     description:
-                      "Filter your search by date, category, or other criteria.",
+                      "Narrow down your search results by date, category, tags, or other filters.",
                   },
                   {
                     icon: Tags,
