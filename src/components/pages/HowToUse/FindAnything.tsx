@@ -86,8 +86,8 @@ export default function FindAnything() {
                 </span>
                 <br />
                 <span className="text-blue-600 dark:text-blue-200">
-                  🗣️ &quot;Show me all my notes related to marketing and
-                  business strategies.&quot;
+                  🗣️ &quot;Show me all my note related to marketing and business
+                  strategies.&quot;
                 </span>
               </p>
             </motion.div>
