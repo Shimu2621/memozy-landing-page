@@ -90,7 +90,7 @@ export const HowToUsePage = () => {
       {
         "@type": "HowToStep",
         name: "Track Personal Informations",
-        text: "Store birthday, preference, and important personal detail. For example, say 'Memozy, save my mom's birthday on June 15th.'",
+        text: "Store birthday, preference, and important personal details. For example, say 'Memozy, save my mom's birthday on June 15th.'",
         url: "https://www.memozy.ai/how-to-use-memozy.html#track-personal-info",
       },
       {
