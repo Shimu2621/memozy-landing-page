@@ -122,7 +122,7 @@ export default function SmartReminders() {
               className="bg-violet-500/10 dark:bg-white/10 backdrop-blur-md rounded-2xl p-4 md:p-6 border border-violet-400 darkk:border-white/20"
             >
               <p className="text-slate-800 dark:text-white font-outfit text-base md:text-lg">
-                <span className="text-blue-600 dark:text-blue-200">
+                <span className="text-blue-800 dark:text-blue-200">
                   Example:
                 </span>
                 <br />
