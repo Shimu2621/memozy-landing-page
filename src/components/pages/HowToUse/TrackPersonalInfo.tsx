@@ -110,7 +110,7 @@ export default function TrackPersonalInfo() {
                 Track Personal Information 👨‍👩‍👦
               </h2>
               <p className="text-lg md:text-xl text-slate-800 dark:text-emerald-100 font-outfit">
-                Keep track of important personal informations for yourself and
+                Keep track of important personal information for yourself and
                 your contact. Store birthdays, anniversaries, gift ideas, and
                 other personal details in one secure place.
               </p>
