@@ -99,7 +99,7 @@ export default function StayOnSchedule() {
                 &quot;What appointments do I have this week?&quot;
               </p>
               <p className="text-sm md:text-base mt-3">
-                Memozy instantly shows your entire week&apos;s schedule, helping
+                Memozy instantly show your entire week&apos;s schedule, helping
                 you stay organized and prepared.
               </p>
             </motion.div>
