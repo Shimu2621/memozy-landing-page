@@ -137,7 +137,7 @@ export default function SmartReminders() {
               className="space-y-4"
             >
               <h3 className="text-xl md:text-2xl font-bold text-slate-800 dark:text-white font-outfit">
-                📌 What Memozy Does:
+                📌 What Memozy Does?:
               </h3>
 
               <div className="space-y-3">
