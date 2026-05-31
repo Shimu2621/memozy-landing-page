@@ -170,7 +170,7 @@ export default function SmartReminders() {
                   <motion.div
                     key={index}
                     variants={isMobile ? {} : itemVariants}
-                    className="flex gap-3 md:gap-4 bg-violet-500/10 dark:bg-white/5 backdrop-blur-sm rounded-xl p-3 md:p-4 border border-violet-500 dark:border-white/10 hover:bg-violet-500/20 dark:hover:bg-white/10 transition-colors cursor-pointer"
+                    className="flex gap-3 md:gap-4 bg-violet-500/10 dark:bg-white/5 backdrop-blur-sm rounded-xl p-3 md:p-4 border border-violet-500 dark:border-white/10 hover:bg-violet-500 dark:hover:bg-white/10 transition-colors cursor-pointer"
                   >
                     <feature.icon className="w-5 h-5 md:w-6 md:h-6 text-violet-500 dark:text-violet-300 flex-shrink-0 mt-1" />
                     <div>
