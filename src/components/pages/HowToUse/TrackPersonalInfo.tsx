@@ -154,7 +154,7 @@ export default function TrackPersonalInfo() {
                     icon: Heart,
                     title: "Personal Preference",
                     description:
-                      "Keep track of gift ideas, favorite foods, and other preference.",
+                      "Keep track of gift idea, favorite food, and other preference.",
                   },
                   {
                     icon: Users,
