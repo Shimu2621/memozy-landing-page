@@ -148,7 +148,7 @@ export default function TrackPersonalInfo() {
                     icon: Cake,
                     title: "Birthday Reminders",
                     description:
-                      "Never forget a birthday again with automatic reminder.",
+                      "Never forget a birthday again with automatic reminders.",
                   },
                   {
                     icon: Heart,
