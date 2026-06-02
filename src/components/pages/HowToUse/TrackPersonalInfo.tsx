@@ -111,7 +111,7 @@ export default function TrackPersonalInfo() {
               </h2>
               <p className="text-lg md:text-xl text-slate-800 dark:text-emerald-100 font-outfit">
                 Keep track of important personal informations for yourself and
-                your contact. Store birthday, anniversary, gift idea, and other
+                your contact. Store birthday, anniversary, gift ideas, and other
                 personal detail in one secure place.
               </p>
             </motion.div>
