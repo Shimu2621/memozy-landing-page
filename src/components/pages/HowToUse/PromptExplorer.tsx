@@ -90,7 +90,7 @@ export default function PromptExplorer() {
               </div>
 
               {/* Glow effect */}
-              <div className="absolute inset-0 rounded-3xl bg-gradient-to-r from-purple-500 to-pink-500 opacity-0 blur-xl -z-10 group-hover:opacity-50 transition-opacity duration-300" />
+              <div className="absolute inset-0 rounded-3xl  opacity-0 blur-xl -z-10 group-hover:opacity-50 transition-opacity duration-300" />
             </div>
           </motion.div>
 
