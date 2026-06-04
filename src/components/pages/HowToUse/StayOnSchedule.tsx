@@ -83,7 +83,7 @@ export default function StayOnSchedule() {
               <p className="text-lg md:text-xl">
                 Stay on top of your busy schedule with Memozy. Views and manages
                 your appointment, meeting, and event in one place. Never missed
-                an important deadline or event again.
+                an important deadlines or events again.
               </p>
             </motion.div>
 
