@@ -83,13 +83,13 @@ export default function OverloadedMind() {
                 Your brain wasn&apos;t built to remember everything.
               </p>
               <p className="text-base md:text-lg text-slate-700 dark:text-slate-200 font-outfit leading-relaxed">
-                In today&apos;s world, we&apos;re constantly juggling tasks, ideas,
-                meetings, and reminders. Your mind gets cluttered. Important
-                thoughts slip away. Deadlines get missed.
+                In today&apos;s world, we&apos;re constantly juggling tasks,
+                ideas, meetings, and reminders. Your mind gets cluttered.
+                Important thoughts slip away. Deadlines get missed.
               </p>
               <p className="text-base md:text-lg text-slate-700 dark:text-slate-200 font-outfit leading-relaxed">
                 Memozy helps you offload thoughts, tasks, and ideas into one
-                trusted space — your personal AI second brain. Stop trying to
+                trusted spaces — your personal AI second brain. Stop trying to
                 remember everything. Start focusing on what truly matters.
               </p>
             </motion.div>
