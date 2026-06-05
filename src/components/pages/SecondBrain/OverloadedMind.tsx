@@ -90,7 +90,7 @@ export default function OverloadedMind() {
               <p className="text-base md:text-lg text-slate-700 dark:text-slate-200 font-outfit leading-relaxed">
                 Memozy helps you offload thoughts, tasks, and ideas into one
                 trusted spaces — your personal AI second brain. Stop trying to
-                remember everything. Start focusing on what truly matters.
+                remember everything. Start focusing on what truly matter.
               </p>
             </motion.div>
 
