@@ -84,7 +84,7 @@ export default function OverloadedMind() {
               </p>
               <p className="text-base md:text-lg text-slate-700 dark:text-slate-200 font-outfit leading-relaxed">
                 In today&apos;s world, we&apos;re constantly juggling tasks,
-                ideas, meetings, and reminders. Your mind gets cluttered.
+                ideas, meetings, and reminders. Your mind get cluttered.
                 Important thought slip away. Deadlines get missed.
               </p>
               <p className="text-base md:text-lg text-slate-700 dark:text-slate-200 font-outfit leading-relaxed">
