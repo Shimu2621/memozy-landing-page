@@ -50,7 +50,7 @@ export default function StayOnSchedule() {
       icon: Zap,
       title: "Seamless Integration",
       description:
-        "Sync with your calendar apps for a unified scheduling experiences.",
+        "Sync with your calendar app for a unified scheduling experiences.",
     },
   ];
 
