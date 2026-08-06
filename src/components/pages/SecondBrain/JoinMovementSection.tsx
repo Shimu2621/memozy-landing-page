@@ -48,7 +48,7 @@ export function JoinMovementSection() {
         whileInView="visible"
         viewport={{ once: true, margin: "-100px" }}
       >
-        {/* Left layered pulsing rings (→ Top Left on mobile) */}
+        {/* Left layered pulsing rings (→ Top Left and right on mobile) */}
         <div
           className="absolute top-0 left-0 sm:inset-y-0 sm:-left-24 flex items-center justify-center pointer-events-none
                      translate-x-[-20%] sm:translate-x-0 translate-y-[-20%] sm:translate-y-0"
